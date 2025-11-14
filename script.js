@@ -1,0 +1,1 @@
+console.log("Strona fotografa działa!");
