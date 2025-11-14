@@ -1,1 +1,0 @@
-# stronka-dla-fotografa
